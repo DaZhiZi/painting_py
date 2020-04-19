@@ -611,6 +611,13 @@ def forecast_line_charts(temps, space, base, per_length):  # bar charts
 def test_forecast_line_charts():  # line chart
     # temps = []
     # Mon Tue Thu Wed Fri Sat Sun
+    # d = [
+    #     {
+    #         'xbqi': 'Mon',
+    #         'tmp': 32,
+    #         'color'
+    #     }
+    # ]
     data = {
         'Mon': {
             'temp': 21,
@@ -682,12 +689,12 @@ def test_keys():
 
 def main():
     author_inform()
-    # test_forecast_line_charts()
+    test_forecast_line_charts()
     # test_forecast_bar_charts()
     # test_keys()
     # circle(0, 0, 30, 'white', 'black')
     # test_star_circle(0, 0, 40)
-    sheild(0, 0, 12)
+    # sheild(0, 0, 12)
     # northkorea(0, 0)
     # semicircle(0, 0, 30, 'white', 'black')
     # gua(0, 0)
