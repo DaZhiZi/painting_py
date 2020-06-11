@@ -1,6 +1,6 @@
 # bar_line_charts and flags
 
->  柱形图 折线图 和 旗子
+>  明日的程序员是未来的魔法师
 
 ### 1. bar_line_charts 项目截图：
 
